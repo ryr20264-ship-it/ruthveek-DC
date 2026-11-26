@@ -844,6 +844,58 @@ const projectData = [
 
     {
         title:
+            "D'Prime Apartments",
+
+        subtitle:
+            "Thoughtfully designed contemporary residences offering refined urban living and modern convenience.",
+
+        status:
+            "Completed",
+
+        location:
+            "Hyderabad",
+
+        type:
+            "Luxury Apartments",
+
+        category:
+            "Residential",
+
+        images: [
+            "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1600&q=90",
+            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=90",
+            "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1600&q=90",
+            "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?auto=format&fit=crop&w=1600&q=90",
+            "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1600&q=90"
+        ],
+
+        description: [
+            "Contemporary apartment residences crafted with 100% Vastu compliant principles and modern aesthetics.",
+            "Spacious and well-ventilated layouts designed for effortless everyday living and utmost privacy.",
+            "Located in a prime residential hub with seamless access to essential landmarks and serene surroundings."
+        ],
+
+        facilities: [
+            { icon: "fa-solid fa-compass", text: "100% Vastu" },
+            { icon: "fa-solid fa-square-parking", text: "Spacious Car Parking" },
+            { icon: "fa-solid fa-bolt", text: "Backup Generator" },
+            { icon: "fa-solid fa-shield-halved", text: "24/7 Security" },
+            { icon: "fa-solid fa-table-cells-large", text: "UPVC Windows" },
+            { icon: "fa-solid fa-shapes", text: "Vitrified Flooring" },
+            { icon: "fa-solid fa-door-open", text: "Main Door: Teakwood Wooden Door" }
+        ],
+
+        highlights: [
+            { icon: "fa-solid fa-couch", text: "1 Living Room" },
+            { icon: "fa-solid fa-bed", text: "3 Bed Room" },
+            { icon: "fa-solid fa-bath", text: "3 Bath Room" },
+            { icon: "fa-solid fa-door-open", text: "2 Balconies" }
+        ]
+    },
+
+
+    {
+        title:
             "Vertex Business Park",
 
         subtitle:
